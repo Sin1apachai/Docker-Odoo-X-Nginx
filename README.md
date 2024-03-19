@@ -1,1 +1,1 @@
-# dockerOdoo
+# docker-odoo
